@@ -36,6 +36,7 @@ public class AuthService {
             userModel.setId(user.getId());
             userModel.setEmail(user.getEmail());
             userModel.setPassword(user.getPassword());
+
             return userModel;
         }
         return null;
