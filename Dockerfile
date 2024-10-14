@@ -12,8 +12,8 @@ COPY target/auth-service-0.0.1-SNAPSHOT.jar /app/auth-service-0.0.1-SNAPSHOT.jar
 #EXPOSE 8080
 
 # Define environment variables (optional, depends on your app's setup)
-ENV DATABASE_URL=postgres://admin:DWyoDfHAtHmwypdcyh30DBgDpnKkM6Si@dpg-cs6kn1jqf0us73ef3270-a:5432/auth
+#ENV DATABASE_URL=postgres://admin:DWyoDfHAtHmwypdcyh30DBgDpnKkM6Si@dpg-cs6kn1jqf0us73ef3270-a:5432/auth
 
 
 # Run the application
-ENTRYPOINT ["java", "-jar", "/app/your-app.jar"]
+ENTRYPOINT ["java", "-jar", "/app/auth-service-0.0.1-SNAPSHOT.jar"]
