@@ -1,0 +1,8 @@
+com/auth/authservice/application/service/AuthService.class
+com/auth/authservice/infrastructure/repository/UserRepository.class
+com/auth/authservice/infrastructure/configuration/SecurityConfig.class
+com/auth/authservice/domain/models/ports/inputs/LoginUseCase.class
+com/auth/authservice/AuthServiceApplication.class
+com/auth/authservice/infrastructure/entities/UserEntity.class
+com/auth/authservice/infrastructure/controllers/AuthController.class
+com/auth/authservice/domain/models/User.class

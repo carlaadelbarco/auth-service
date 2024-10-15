@@ -1,0 +1,10 @@
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/controllers/SupabaseAPI.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/controllers/AuthController.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/domain/models/User.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/configuration/SupabaseConnection.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/repository/UserRepository.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/entities/UserEntity.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/application/service/AuthService.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/domain/models/ports/inputs/LoginUseCase.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/infrastructure/configuration/SecurityConfig.java
+/Users/carlaalvarez/Desktop/Software projects/auth/auth-service/src/main/java/com/auth/authservice/AuthServiceApplication.java
