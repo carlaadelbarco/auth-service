@@ -32,7 +32,7 @@ public class AuthController {
         }
         return ResponseEntity.status(401).body("Invalid credentials");
     }
-
+    @CrossOrigin // Habilita CORS solo para esta ruta
     @GetMapping("/getAllUsers")
     public ResponseEntity<?> getAllUsers() {
         List<User> allUsers = authService.getAllUsers();
